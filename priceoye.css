@@ -149,7 +149,7 @@ h2 {
 
 .bannersection {
     background-image: url(https://static.priceoye.pk/images/categories/section-earbuds-bg-md.png);
-    height: 40vh;
+    height: 16rem;
     margin-top: 2rem;
     width: 100vw;
 
@@ -267,8 +267,8 @@ h2 {
     padding-top: 1rem;
     margin: auto;
     display: flex;
-    height: 15vh;
-    width: 9vw;
+    height: 5rem;
+    width: 5rem;    
     padding-bottom: 1rem;
 }
 
@@ -282,8 +282,8 @@ h2 {
     padding-top: 1rem;
     margin: auto;
     display: flex;
-    height: 15vh;
-    width: 9vw;
+    height: 5rem;
+    width: 5rem;
     padding-bottom: 1rem;
 }
 
@@ -404,7 +404,7 @@ strong {
 
 video {
     object-fit: cover;
-    height: 50vh;
+    height: 20rem;
     width: 100%;
     padding-bottom: 1rem;
     border-radius: 10px 10px 0px 0px;
@@ -428,7 +428,7 @@ video {
     position: absolute;
     display: flex;
     margin: auto;
-    height: 10vh;
+    height: 5rem;
     width: 7vw;
     left: 3rem;
     bottom: 10rem;
