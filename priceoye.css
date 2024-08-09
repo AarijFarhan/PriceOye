@@ -157,6 +157,7 @@ h2 {
 }
 
 .first {
+    align-items: center;
     display: flex;
     justify-content: space-between;
     width: 80vw;
