@@ -638,7 +638,7 @@
         display: flex;
         align-items: center;
         font-size: 11px;
-        padding: 3px 3px 8px 9px;
+        padding: 6px 3px 6px 9px;
 
     }
 
@@ -669,7 +669,7 @@ p {
 .input img {
     align-items: center;
     display: flex;
-    height: 11px;
+    height: 13px;
 }
 .firstline {
     font-size: 11px;
