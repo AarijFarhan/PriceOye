@@ -1044,6 +1044,16 @@ button:hover {
     cursor: pointer;
 }
 
+.name {
+    /* display: flex;
+    justify-content: center; */
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-left: 1rem;
+    font-size: 15px;
+}
+
+
 .customer-reviews img:hover {
     cursor: pointer;
     transform: scale(1.05);
